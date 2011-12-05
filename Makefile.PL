@@ -19,7 +19,7 @@ my %WriteMakefileArgs = (
     'URI::Escape'    => '3.29',
     'JSON'           => '2.17'
   },
-  'VERSION' => '0.00001',
+  'VERSION' => '0.00002',
   'test' => {
     'TESTS' => 't/*.t'
   }
