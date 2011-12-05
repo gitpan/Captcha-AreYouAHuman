@@ -1,5 +1,5 @@
 package Captcha::AreYouAHuman;
-$VERSION = 0.00002;
+$VERSION = 0.00003;
 
 # Are You a Human Perl Integration Library
 # Copyright December 5, 2011  Are You a Human LLC

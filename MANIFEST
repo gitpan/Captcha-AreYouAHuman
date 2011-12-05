@@ -11,3 +11,4 @@ lib/Captcha/AreYouAHuman.pm
 MANIFEST
 LICENSE
 Makefile.PL
+META.yml                                 Module meta-data (added by MakeMaker)
